@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple set of lists that can be used to track what needs to be purchased.
+simple set of lists that can be used to track what needs to be purchased.
 
 ## Formatting
 
